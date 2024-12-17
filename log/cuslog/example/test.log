@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2024-12-16T23:14:16+08:00","file":"/Users/work/goDemo/log/cuslog/example/main.go:25","func":"main.main","message":"custom log with json formatter"}
+{"file":"/Users/work/goDemo/log/cuslog/example/example.go:28","func":"main.main","message":"custom log with json formatter","level":"INFO","time":"2024-12-17T12:00:53+08:00"}
